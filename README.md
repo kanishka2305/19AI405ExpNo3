@@ -83,7 +83,8 @@ G F <BR>
 <hr>
 
 ### Program:
-```from collections import deque
+```
+from collections import deque
 from collections import defaultdict
 
 def bfs(graph,start,visited,path):
@@ -130,6 +131,7 @@ print(traversedpath)
 2 4 <BR>
 3 4 <BR>
 <hr>
+
 ### Program:
 ```
 from collections import deque
